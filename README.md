@@ -55,7 +55,7 @@ This project is built using modern and scalable technologies:
 
 ## 📸 Screenshots
 
-*Add screenshots of the application interface here.*
+
 
 Example:
 
@@ -300,3 +300,4 @@ GitHub: [https://github.com/SQUADRON-LEADER](https://github.com/SQUADRON-LEADER)
 ---
 
 > Made with ❤️ by the LegalSpark Team
+
