@@ -47,7 +47,7 @@ This project is built using modern and scalable technologies:
 * **Database:** MongoDB / Firebase / PostgreSQL
 * **AI / NLP:** Machine Learning, OpenAI API, NLP Libraries
 * **Tools:** Git, GitHub, VS Code, Postman
-* **Deployment:** Vercel, Render, AWS
+* **Deployment:** Vercel
 
 > Modify this section based on your actual technologies.
 
@@ -301,5 +301,6 @@ GitHub: [https://github.com/SQUADRON-LEADER](https://github.com/SQUADRON-LEADER)
 ---
 
 > Made with ❤️ by the LegalSpark Team
+
 
 
