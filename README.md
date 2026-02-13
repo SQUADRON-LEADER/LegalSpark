@@ -1,4 +1,3 @@
-
 # 📘 LegalSpark
 
 > An intelligent platform designed to simplify, analyze, and manage legal information efficiently.
@@ -243,4 +242,3 @@ GitHub: [https://github.com/SQUADRON-LEADER](https://github.com/SQUADRON-LEADER)
 ---
 
 > Made with ❤️ by the LegalSpark Team
-
