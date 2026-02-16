@@ -56,6 +56,7 @@ This project is built using modern and scalable technologies:
 ## 📸 Screenshots
 <img width="1898" height="902" alt="Screenshot 2026-02-13 211212" src="https://github.com/user-attachments/assets/317be461-577b-4017-a70f-334811978ff7" />
 
+<img width="1883" height="884" alt="Screenshot 2026-02-13 211225" src="https://github.com/user-attachments/assets/03ff79fa-d6b8-49b8-a5be-b66be34c620d" />
 
 
 Example:
@@ -301,6 +302,7 @@ GitHub: [https://github.com/SQUADRON-LEADER](https://github.com/SQUADRON-LEADER)
 ---
 
 > Made with ❤️ by the LegalSpark Team
+
 
 
 
