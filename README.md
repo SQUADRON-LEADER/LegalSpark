@@ -125,9 +125,6 @@ DATABASE_URL=your_database_url
 PORT=3000
 SECRET_KEY=your_secret_key
 ```
-
-> Never share your `.env` file publicly.
-
 ---
 
 ### ▶️ Run the Project
@@ -297,6 +294,7 @@ GitHub: [https://github.com/SQUADRON-LEADER](https://github.com/SQUADRON-LEADER)
 ---
 
 > Made with ❤️ by the LegalSpark Team
+
 
 
 
