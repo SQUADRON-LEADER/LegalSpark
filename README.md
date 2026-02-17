@@ -49,7 +49,6 @@ This project is built using modern and scalable technologies:
 * **Tools:** Git, GitHub, VS Code, Postman
 * **Deployment:** Vercel
 
-> Modify this section based on your actual technologies.
 
 ---
 
@@ -298,6 +297,7 @@ GitHub: [https://github.com/SQUADRON-LEADER](https://github.com/SQUADRON-LEADER)
 ---
 
 > Made with ❤️ by the LegalSpark Team
+
 
 
 
