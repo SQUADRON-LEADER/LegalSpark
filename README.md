@@ -61,12 +61,6 @@ This project is built using modern and scalable technologies:
 <img width="1880" height="884" alt="Screenshot 2026-02-13 211245" src="https://github.com/user-attachments/assets/7637b20a-e003-4843-9846-6b45dabfdd87" />
 
 
-Example:
-
-```
-![Homepage](screenshots/home.png)
-```
-
 ---
 
 ## 🧠 How It Works
@@ -304,6 +298,7 @@ GitHub: [https://github.com/SQUADRON-LEADER](https://github.com/SQUADRON-LEADER)
 ---
 
 > Made with ❤️ by the LegalSpark Team
+
 
 
 
